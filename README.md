@@ -1,2 +1,1 @@
-# Advance_Machine_Learning
-Bio-Informatics Project Code
+# Bio-Informatics Project on SAM/BAM File Conversion
